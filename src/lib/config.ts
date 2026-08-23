@@ -45,25 +45,25 @@ export const BANNER_IMAGE = "/cp.jpg";
 
 export const RESUME_URL =
   "https://drive.google.com/file/d/1WKa36vE76iBqOAcucFTeVxGwsFmSim9g/view?usp=drive_link";
-export const DISCORD_LINK = "https://discord.gg/wG9qpfvuQQ";
+export const DISCORD_LINK = "https://discord.com/users/1030890992397713468";
 export const CAL_URL = "https://cal.com/shahriaravi/15m";
 
 export const SOCIALS = [
   {
     platform: "facebook",
-    url: "https://facebook.com/shahriaravi",
+    url: "https://www.facebook.com/share/1PUQ48erze/",
     icon: SiFacebook,
     color: "currentColor",
   },
   {
     platform: "github",
-    url: "https://github.com/shahriaravi",
+    url: "https://github.com/stguy67",
     icon: SiGithub,
     color: "currentColor",
   },
   {
     platform: "x",
-    url: "https://x.com/shahriaravi_",
+    url: "https://x.com/Absarali_",
     icon: SiX,
     color: "currentColor",
   },
